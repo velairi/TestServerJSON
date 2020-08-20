@@ -1,0 +1,50 @@
+{"org_chart":
+    {
+        "users": [{
+            "name": "Amy",
+            "id": 20,
+            "manager_id": 100
+        },
+        {
+            "name": "Greg",
+            "id": 30,
+            "manager_id": 200
+        },
+        {
+            "name": "Irvin",
+            "id": 40,
+            "manager_id": 300
+        },
+        {
+            "name": "Trent",
+            "id": 50,
+            "manager_id": 400
+        },
+        {
+            "name": "Silvia",
+            "id": 60,
+            "manager_id": 500
+        },
+        {
+            "name": "Brooks",
+            "id": 70,
+            "manager_id": 600
+        },
+        {
+            "name": "Humberto",
+            "id": 80,
+            "manager_id": 700
+        },
+        {
+            "name": "Kasey",
+            "id": 90,
+            "manager_id": 800
+        },
+        {
+            "name": "Lara",
+            "id": 100,
+            "manager_id": 900
+        }]
+    }
+}
+
